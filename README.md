@@ -20,9 +20,10 @@
 
 ![Image](images/PanoSetting4.PNG?raw=true)
 
-- Under Editor Settings -> Standalone.  Add fixed time step. ```-usefixedtimestep -fps=60 -notexturestreaming```
+- Under Editor Settings -> Play in Standalone Game -> Advanced.  
+- Add fixed time step. ```-usefixedtimestep -fps=60 -notexturestreaming```
 
-![Image](images/PanoSetting5.PNG?raw=true)
+![Image](images/PanoSetting5.png?raw=true)
 
 - Play in Standalone Game.
 - Press Escape to toggle Stereo Panorama Settings Menu. 
